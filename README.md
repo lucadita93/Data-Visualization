@@ -13,8 +13,8 @@ FDSFFSFF
   pd.
   ```
  
-![My image](ordini inevasi 1.PNG)
-
+![My image](image-pandas.png)
+![My image](image-pandas-pie.png)
 
 
 
