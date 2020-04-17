@@ -14,7 +14,7 @@ FDSFFSFF
   ```
  
 ![GitHub Logo](/images/ordini inevasi 1.png)
-Format: ![Alt Text](url)
+
 
 
 
