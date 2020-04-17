@@ -11,5 +11,6 @@ FDSFFSFF
   ```
   import pandas as pd
   pd.
-![My image](ordini inevasi 1.PNG)
+![GitHub Logo](ordini inevasi 1.PNG)
+
 
