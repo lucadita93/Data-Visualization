@@ -11,5 +11,5 @@ FDSFFSFF
   ```
   import pandas as pd
   pd.
-![GitHub Logo](/images/logo.png)
-Format: ![Alt Text](url)
+![My image](ordini inevasi 1.PNG	)
+
